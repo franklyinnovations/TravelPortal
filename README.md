@@ -1,5 +1,4 @@
-# angular2-registration-login-example
+# Travel Portal application.
 
-Angular 2 User Registration and Login Example & Tutorial
+Travel Portal for flight reservation and booking including the account details.
 
-To see a demo and further details go to http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
